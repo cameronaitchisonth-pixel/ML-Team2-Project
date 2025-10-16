@@ -1,6 +1,6 @@
-# ML-Team2-Project
-Cameron Aitchison, Richard Mendez, Brandon LeMay, Dipak Sakharkar
-Machine Learning class project exploring market data. 
+# ML Team 2 Project
+Cameron Aitchison, Richard Mendez, Brandon LeMay, Dipak Sakharkar  
+Machine Learning class project exploring market data.   
 This repo contains all code, data handling, and reports for the project.
 
 ---
@@ -27,7 +27,8 @@ This repo contains all code, data handling, and reports for the project.
 - **experiments/**  
   - `results/` — Saved metrics, plots, configs, and logs
 
-- **requirements.txt** — Python dependencies  
+- **requirements.txt** — Python dependencies in conda environment
+  - Use `conda create --name <NAME> --file requirements.txt`
 - **.gitignore** — Ignore data, logs, outputs  
 - **README.md** — Project overview, setup instructions  
 - **LICENSE** — MIT license
