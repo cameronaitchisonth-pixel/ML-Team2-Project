@@ -3,26 +3,29 @@ Cameron Aitchison, Richard Mendez, Brandon LeMay, Dipak Sakharkar
 Machine Learning class project exploring market data.   
 This repo contains all code, data handling, and reports for the project.
 
+## Usage
+
+Training can be accessed by running   
+`python -m src.train`
+
 ---
 
 ## Repository Structure
 
 - **data/**  
-  - `README.md` — Instructions on how to download the dataset (large data not stored here)
+  - `README.md`
+  - `SPX.csv` - Data file
 
 - **notebooks/**  
-  - `01_exploration.ipynb` — Exploratory data analysis & prototyping
+  - `01_exploration.ipynb` - Exploratory jupyter notebook for data analysis & prototyping
 
 - **src/** (core code)  
-  - `__init__.py` — Marks `src` as a Python package  
-  - `data_loading.py` — Functions to load/download/prepare data  
-  - `preprocessing.py` — Feature engineering, cleaning, scaling  
-  - `models.py` — Model classes or wrappers  
-  - `train.py` — Training script (main entry point)  
-  - `evaluate.py` — Evaluation & metrics  
-
-- **tests/**  
-  - `test_data_loading.py` — Unit tests
+  - `__init__.py` - Marks `src` as a Python package  
+  - `data_loading.py` - Functions to load/download/prepare data  
+  - `preprocessing.py` - Feature engineering, cleaning, scaling  
+  - `models.py` - Model classes or wrappers  
+  - `train.py` - Training script (main entry point)  
+  - `evaluate.py` - Evaluation & metrics  
 
 - **experiments/**  
   - `results/` — Saved metrics, plots, configs, and logs
