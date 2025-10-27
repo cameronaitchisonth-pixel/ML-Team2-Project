@@ -32,7 +32,7 @@ Training can be accessed by running
 
 - **requirements.txt** — Python dependencies
   - Use `conda create --name <NAME> --file requirements.txt` for conda env creation
-  - Use `pip install -r ./requirements.txt` for pip 
+  - Use `pip install -r requirements.txt` for pip 
 - **.gitignore** — Ignore data, logs, outputs  
 - **README.md** — Project overview, setup instructions  
 - **LICENSE** — MIT license
