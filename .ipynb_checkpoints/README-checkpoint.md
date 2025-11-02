@@ -6,7 +6,8 @@ This repo contains all code, data handling, and reports for the project.
 ## Usage
 
 Training can be accessed by running   
-`python -m src.train`
+`python -m src.train`  
+or by finding models in notebooks/
 
 ---
 
@@ -18,6 +19,7 @@ Training can be accessed by running
 
 - **notebooks/**  
   - `Data.ipynb` - Exploratory jupyter notebook for data analysis & prototyping
+  - Individual notebooks for each team member to explore models
 
 - **src/** (core code)  
   - `__init__.py` - Marks `src` as a Python package  
@@ -32,7 +34,7 @@ Training can be accessed by running
 
 - **requirements.txt** — Python dependencies
   - Use `conda create --name <NAME> --file requirements.txt` for conda env creation
-  - Use `pip install -r ./requirements.txt` for pip 
+  - Use `pip install -r requirements.txt` for pip 
 - **.gitignore** — Ignore data, logs, outputs  
 - **README.md** — Project overview, setup instructions  
 - **LICENSE** — MIT license
