@@ -1,0 +1,83 @@
+No Regularization
+Mean Squared Error: 0.000034
+Accuracy (R2): 42.96%
+
+L1 Regularizer Cost: 1e-20
+Mean Squared Error: 0.000040
+Accuracy (R2): 34.15%
+
+L1 Regularizer Cost: 1e-18
+Mean Squared Error: 0.000030
+Accuracy (R2): 50.08%
+
+L1 Regularizer Cost: 1e-16
+Mean Squared Error: 0.000028
+Accuracy (R2): 53.25%
+
+L1 Regularizer Cost: 1e-14
+Mean Squared Error: 0.000030
+Accuracy (R2): 49.57%
+
+L1 Regularizer Cost: 1e-12
+Mean Squared Error: 0.000038
+Accuracy (R2): 36.11%
+
+L1 Regularizer Cost: 1e-10
+Mean Squared Error: 0.000032
+Accuracy (R2): 46.37%
+
+L1 Regularizer Cost: 1e-08
+Mean Squared Error: 0.000028
+Accuracy (R2): 53.32%
+
+L1 Regularizer Cost: 1e-06
+Mean Squared Error: 0.000031
+Accuracy (R2): 48.29%
+
+L1 Regularizer Cost: 0.0001
+Mean Squared Error: 0.000028
+Accuracy (R2): 54.25%
+
+L1 Regularizer Cost: 0.01
+Mean Squared Error: 0.000061
+Accuracy (R2): -0.62%
+
+L2 Regularizer Cost: 1e-20
+Mean Squared Error: 0.000035
+Accuracy (R2): 42.39%
+
+L2 Regularizer Cost: 1e-18
+Mean Squared Error: 0.000036
+Accuracy (R2): 40.14%
+
+L2 Regularizer Cost: 1e-16
+Mean Squared Error: 0.000060
+Accuracy (R2): -0.10%
+
+L2 Regularizer Cost: 1e-14
+Mean Squared Error: 0.000032
+Accuracy (R2): 46.40%
+
+L2 Regularizer Cost: 1e-12
+Mean Squared Error: 0.000028
+Accuracy (R2): 53.37%
+
+L2 Regularizer Cost: 1e-10
+Mean Squared Error: 0.000032
+Accuracy (R2): 47.03%
+
+L2 Regularizer Cost: 1e-08
+Mean Squared Error: 0.000037
+Accuracy (R2): 39.16%
+
+L2 Regularizer Cost: 1e-06
+Mean Squared Error: 0.000028
+Accuracy (R2): 53.30%
+
+L2 Regularizer Cost: 0.0001
+Mean Squared Error: 0.000030
+Accuracy (R2): 50.11%
+
+L2 Regularizer Cost: 0.01
+Mean Squared Error: 0.000030
+Accuracy (R2): 50.45%
