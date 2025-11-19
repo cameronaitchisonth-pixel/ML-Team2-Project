@@ -5,9 +5,8 @@ This repo contains all code, data handling, and reports for the project.
 
 ## Usage
 
-Training can be accessed by running   
-`python -m src.train`  
-or by finding models in notebooks/
+Training can viewed in `Lab.ipynb`
+or by finding member models in notebooks/
 
 ---
 
@@ -19,6 +18,9 @@ or by finding models in notebooks/
 
 - **notebooks/**  
   - Individual notebooks for each team member to explore models
+
+- **figures/**  
+  - Figures from model development
 
 - **Lab.ipynb** — Final lab report notebook with comments
 
