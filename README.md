@@ -18,22 +18,11 @@ or by finding models in notebooks/
   - `SPX.csv` - Data file
 
 - **notebooks/**  
-  - `Data.ipynb` - Exploratory jupyter notebook for data analysis & prototyping
   - Individual notebooks for each team member to explore models
 
-- **src/** (core code)  
-  - `__init__.py` - Marks `src` as a Python package  
-  - `data_loading.py` - Functions to load/download/prepare data  
-  - `preprocessing.py` - Feature engineering, cleaning, scaling  
-  - `models.py` - Model classes or wrappers  
-  - `train.py` - Training script (main entry point)  
-  - `evaluate.py` - Evaluation & metrics  
-
-- **experiments/**  
-  - `results/` — Saved metrics, plots, configs, and logs
+- **Lab.ipynb** — Final lab report notebook with comments
 
 - **requirements.txt** — Python dependencies
-  - Use `conda create --name <NAME> --file requirements.txt` for conda env creation
   - Use `pip install -r requirements.txt` for pip 
 - **.gitignore** — Ignore data, logs, outputs  
 - **README.md** — Project overview, setup instructions  
